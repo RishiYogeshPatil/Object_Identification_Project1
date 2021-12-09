@@ -1,0 +1,35 @@
+a
+{
+    background-color: whitesmoke;
+    color: black;
+    font-size: 30px;
+    font-style: bold ;
+    width: 800px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+    margin-top: 80px;
+}
